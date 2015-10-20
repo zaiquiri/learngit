@@ -1,1 +1,1 @@
-## Simple Hello World app
+## Awesome hello world app
